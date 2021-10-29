@@ -1,4 +1,4 @@
-# WIP
+
 **Main goal**: practise analyzing data with Python and communicate findings. Analysis has been done purelly for educational purpose.
 <br> **used libraries**: NumPy, pandas, and Matplotlib
 
