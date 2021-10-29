@@ -1,6 +1,6 @@
 # WIP
 **Main goal**: practise analyzing data with Python and communicate findings. 
-**used libraries**: NumPy, pandas, and Matplotlib
+<br> **used libraries**: NumPy, pandas, and Matplotlib
 
 **Subject**: Which countries are good for investment or start running a business, based on dataset obtained from  https://www.gapminder.org/data/ ,for timeframe 
 mainly 2012-2018.
